@@ -28,8 +28,31 @@ A Vedic astrology app. Accurate birth-chart calculation and personalized daily g
 ### 📜 [Clause Lens](https://clauselens.online/) — [clauselens.online](https://clauselens.online/)
 An AI lease / contract decoder. Scan any lease or contract and get a plain-English, statute-grounded read in seconds: the risky clauses, what the law says, and what to ask before you sign.
 
-### 🔰 [Meshpilot AGI](https://github.com/Meshpilot-AGI/) — [meshpilot.app](https://meshpilot.app/)
-We build self-hostable AI agents that run marketing end to end — a standing cloud worker with memory, judgment, its own tools, and a learning loop, instead of one more dashboard to babysit. Open-core: the agents are free and open; a managed, multi-tenant hosted platform is the paid product.
+---
+
+## 🧩 Open source
+
+### 🔰 [MeshPilot](https://github.com/Nuraveda-Labs/MeshPilot-AGI) — [meshpilot.app](https://meshpilot.app/)
+A self-hostable AI agent that runs marketing end to end — a standing cloud worker with memory,
+judgment, its own tools and a learning loop, instead of one more dashboard to babysit.
+
+What makes it different from the other agent frameworks is not the loop: it runs **N brands, each
+sealed from the others**. Every credential resolves `<PREFIX>_<KEY>` from that brand's own config,
+so the agent running one brand structurally cannot reach another's. Outward capabilities ship
+**off**, a deterministic policy gate stands between a decision and an action, and the publishers
+actually publish.
+
+**Open-core**, AGPL-3.0: the agent is free and self-hostable; a managed, multi-tenant hosted
+platform is the paid product.
+
+Plus a set of focused agents and MCP servers:
+[voice](https://github.com/Nuraveda-Labs/ai-voice-agent) ·
+[SEO](https://github.com/Nuraveda-Labs/ai-seo-agent) ·
+[social](https://github.com/Nuraveda-Labs/ai-social-agent) ·
+[sales](https://github.com/Nuraveda-Labs/ai-sales-agent) ·
+[ads](https://github.com/Nuraveda-Labs/ai-ads-agent) ·
+[UGC](https://github.com/Nuraveda-Labs/ai-ugc-agent) ·
+[linkedin-ads-mcp](https://github.com/Nuraveda-Labs/linkedin-ads-mcp)
 
 ---
 
