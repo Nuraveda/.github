@@ -35,7 +35,7 @@ A Vedic astrology app — accurate birth-chart calculation and personalized dail
 
 ## 🧩 Open source
 
-### 🔰 [MeshPilot](https://github.com/Nuraveda-Labs/MeshPilot-AGI) — [meshpilot.app](https://meshpilot.app/)
+### 🔰 [MeshPilot](https://github.com/Nuraveda/MeshPilot-AGI) — [meshpilot.app](https://meshpilot.app/)
 A self-hostable AI agent that runs marketing end to end — a standing cloud worker with memory,
 judgment, its own tools and a learning loop, instead of one more dashboard to babysit.
 
@@ -48,21 +48,24 @@ actually publish.
 **Open-core**, AGPL-3.0: the agent is free and self-hostable; a managed, multi-tenant hosted
 platform is the paid product.
 
+### 🧾 [QED Proof](https://github.com/Nuraveda/qed-proof-core) — [qedproof.site](https://qedproof.site/)
+An open protocol for verifying what AI agents claim they did: signed, publicly checkable receipts — credit scores for AI agents, anchored on proof. The core protocol is Apache-2.0 in [qed-proof-core](https://github.com/Nuraveda/qed-proof-core), alongside SDKs and tools for [Python](https://github.com/Nuraveda/qed-proof-python), [JavaScript](https://github.com/Nuraveda/qed-proof-js), [MCP](https://github.com/Nuraveda/qed-proof-mcp) and [docs](https://github.com/Nuraveda/qed-proof-docs).
+
 ### 🧩 Agents & MCP servers
 
 Composable pieces — run them on their own, or let MeshPilot orchestrate them.
 
 | Repo | What it does |
 |---|---|
-| [**ai-seo-agent**](https://github.com/Nuraveda-Labs/ai-seo-agent) | Audits sites, fixes on-page SEO, injects schema.org structured data |
-| [**ai-ads-agent**](https://github.com/Nuraveda-Labs/ai-ads-agent) | Cross-platform ad ops — ROAS rollups, Shopify↔Meta attribution, HITL-gated spend |
-| [**ai-social-agent**](https://github.com/Nuraveda-Labs/ai-social-agent) | Multi-brand social content — short-form video, ORM, multi-platform publishing |
-| [**ai-ugc-agent**](https://github.com/Nuraveda-Labs/ai-ugc-agent) | UGC generation for D2C brands — script → render → publish |
-| [**ai-sales-agent**](https://github.com/Nuraveda-Labs/ai-sales-agent) | Sales pipeline — discovery, qualification, outreach drafting, HITL follow-up |
-| [**ai-voice-agent**](https://github.com/Nuraveda-Labs/ai-voice-agent) | LiveKit voice AI for inbound + outbound calls, pluggable LLM-voice backends |
-| [**echo**](https://github.com/Nuraveda-Labs/echo) | AI voice-calling agent + lead CRM |
-| [**shopify-agentic-seo-app**](https://github.com/Nuraveda-Labs/shopify-agentic-seo-app) | Agentic SEO for Shopify — audits, JSON-LD automation, AI-search readiness. MIT |
-| [**linkedin-ads-mcp**](https://github.com/Nuraveda-Labs/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API — campaigns, analytics, creatives |
+| [**ai-seo-agent**](https://github.com/Nuraveda/ai-seo-agent) | Audits sites, fixes on-page SEO, injects schema.org structured data |
+| [**ai-ads-agent**](https://github.com/Nuraveda/ai-ads-agent) | Cross-platform ad ops — ROAS rollups, Shopify↔Meta attribution, HITL-gated spend |
+| [**ai-social-agent**](https://github.com/Nuraveda/ai-social-agent) | Multi-brand social content — short-form video, ORM, multi-platform publishing |
+| [**ai-ugc-agent**](https://github.com/Nuraveda/ai-ugc-agent) | UGC generation for D2C brands — script → render → publish |
+| [**ai-sales-agent**](https://github.com/Nuraveda/ai-sales-agent) | Sales pipeline — discovery, qualification, outreach drafting, HITL follow-up |
+| [**ai-voice-agent**](https://github.com/Nuraveda/ai-voice-agent) | LiveKit voice AI for inbound + outbound calls, pluggable LLM-voice backends |
+| [**echo**](https://github.com/Nuraveda/echo) | AI voice-calling agent + lead CRM |
+| [**shopify-agentic-seo-app**](https://github.com/Nuraveda/shopify-agentic-seo-app) | Agentic SEO for Shopify — audits, JSON-LD automation, AI-search readiness. MIT |
+| [**linkedin-ads-mcp**](https://github.com/Nuraveda/linkedin-ads-mcp) | MCP server for the LinkedIn Marketing API — campaigns, analytics, creatives |
 
 ---
 
