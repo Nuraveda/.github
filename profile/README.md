@@ -1,7 +1,7 @@
 <h1 align="center">Nuraveda</h1>
 
 <p align="center">
-  <a href="https://nuraveda.com"><img src="https://img.shields.io/badge/🌐_nuraveda.com-Visit_the_lab-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=00ff88" alt="nuraveda.com"></a>
+  <a href="https://lab.nuraveda.com"><img src="https://img.shields.io/badge/🌐_nuraveda.com-Visit_the_lab-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=00ff88" alt="nuraveda.com"></a>
 </p>
 
 <p align="center">
