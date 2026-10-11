@@ -114,6 +114,6 @@ Composable pieces — run them on their own, or let MeshPilot orchestrate them.
 
 <p align="center">
   <sub>
-    <a href="https://nuraveda.com">nuraveda.com</a> · Based in <b>Toronto 🍁</b> · A production AI lab — real products, real users, real infrastructure.
+    <a href="https://lab.nuraveda.com">lab.nuraveda.com</a> · Based in <b>Toronto 🍁</b> · A production AI lab — real products, real users, real infrastructure.
   </sub>
 </p>
