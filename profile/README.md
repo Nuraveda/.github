@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>A production AI lab. We ship.</b><br/>
-  <a href="https://lab.nuraveda.com"><b>lab.nuraveda.com</b></a> — two products live: <a href="https://glitchexecutor.com/"><b>Glitch Executor</b></a> · <a href="https://apps.apple.com/ca/app/clause-lens/id6804345179"><b>Clause Lens</b></a> — and <b>Vediq</b> in the works.
+  <a Two products live: <a href="https://glitchexecutor.com/"><b>Glitch Executor</b></a> · <a href="https://apps.apple.com/ca/app/clause-lens/id6804345179"><b>Clause Lens</b></a> — and <b>Vediq</b> in the works.
 </p>
 
 <p align="center">
